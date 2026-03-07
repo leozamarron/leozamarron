@@ -36,11 +36,6 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leozamarron&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Estadísticas de leozamarron" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozamarron&layout=compact&theme=tokyonight&locale=es&hide_border=true" alt="Lenguajes más usados" width="40%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leozamarron&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" width="55%" />
 </p>
 
@@ -49,6 +44,9 @@
 ### 🌐 Encuéntrame en
 
 <p align="center">
+  <a href="https://leozamarron.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Sitio_Web-leozamarron.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
   <a href="https://github.com/leozamarron" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
