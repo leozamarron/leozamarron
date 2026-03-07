@@ -44,7 +44,7 @@
 ### 🌐 Encuéntrame en
 
 <p align="center">
-  <a href="https://leozamarron.dev" target="_blank">
+  <a href="https://www.leozamarron.dev" target="_blank">
     <img src="https://img.shields.io/badge/Sitio_Web-leozamarron.dev-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/leozamarron" target="_blank">
