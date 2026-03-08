@@ -14,7 +14,6 @@
 - 🌱 Siempre aprendiendo nuevas tecnologías
 - 💬 Pregúntame sobre desarrollo de software
 - 📫 Contáctame: a través de mis redes sociales
-- ⚡ Dato curioso: Me apasiona resolver problemas con código
 
 ---
 
