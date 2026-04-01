@@ -54,8 +54,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>✨ "El código es poesía" ✨</i>
-</p>
